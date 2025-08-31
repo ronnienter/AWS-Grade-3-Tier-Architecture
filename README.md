@@ -5,7 +5,7 @@ This project demonstrates a **3-Tier Web Application** deployed on **Amazon Web 
 
 The architecture consists of:
 - **Presentation Tier (Frontend)** – React web application hosted on S3 + CloudFront
-- **Application Tier (Backend)** – Node.js/Express running on EC2 or AWS Elastic Beanstalk
+- **Application Tier (Backend)** – Node.js/Express js running on EC2 or AWS Elastic Beanstalk
 - **Database Tier** – Amazon RDS (MySQL/PostgreSQL)
 
 ---
