@@ -11,7 +11,7 @@ The architecture consists of:
 ---
 
 ## 🏗️ Architecture Diagram
-*(Will be added here – e.g., draw.io / Lucidchart / Excalidraw export)*
+*(draw.io / Lucidchart / Excalidraw export)*
 
 ---
 
